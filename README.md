@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.instagram.com/suzunaki4">
+  <a href="https://www.instagram.com/jus_tdewit">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/orjinal_wase.">
